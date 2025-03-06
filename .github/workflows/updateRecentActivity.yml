@@ -18,3 +18,5 @@ jobs:
         # You may pin to the exact commit or the version.
         # uses: jamesgeorge007/github-activity-readme@df57d5cab9b53277241f93190e176b38dd95eb1a
         uses: jamesgeorge007/github-activity-readme@v0.4.4
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
