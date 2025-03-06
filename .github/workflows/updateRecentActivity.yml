@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Permite ejecutar manualmente
 
 jobs:
-  update-readme:
+  build:
     name: Update README with recent activity
     runs-on: ubuntu-latest
 
@@ -16,6 +16,6 @@ jobs:
 
       - name: Fetch recent activity
         uses: Readme-Workflows/recent-activity@v2.4.1
-        with:
+        env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
