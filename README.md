@@ -59,6 +59,16 @@
 
 ---
 
+## 🔥 Actividad Reciente  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
+---
+
 ### 🌍 Contáctame  
 
 📩 **Email:** [leonardosalinaspaullo@gmail.com](mailto:leonardosalinaspaullo@gmail.com)  
