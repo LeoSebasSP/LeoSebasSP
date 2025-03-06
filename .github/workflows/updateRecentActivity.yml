@@ -18,5 +18,6 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_USERNAME: "LeoSebasSP"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: .github/recent-activity.config.yml
 
