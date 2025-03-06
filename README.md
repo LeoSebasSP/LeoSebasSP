@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Sobre mí
 
-🔹Soy titulado en Ingeniería de Sistemas e Informática.  
-🔹Apasionado por al Desarrollo de software.  
-🔹En constante aprendizaje de nuevas tecnologías.
+🔹Ingeniero de Sistemas e Informática  
+🔹Apasionado por al Desarrollo de software  
+🔹En constante aprendizaje de nuevas tecnologías
 
 ---
 
