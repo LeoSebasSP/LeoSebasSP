@@ -2,22 +2,20 @@ name: Actualizar Actividad Reciente
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Se ejecuta cada 6 horas
-  workflow_dispatch:  # Permite ejecutar manualmente
+    - cron: "* */6 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     name: Update README with recent activity
     runs-on: ubuntu-latest
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2.3.4
 
       - name: Fetch recent activity
         uses: Readme-Workflows/recent-activity@v2.4.1
-        with:
-          GH_USERNAME: "LeoSebasSP"
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CONFIG_FILE: .github/recent-activity.config.yml
 
