@@ -34,25 +34,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub  
-
-<div align="center">
-
-<td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=LeoSebasSP&show_icons=true&theme=radical" width="500px"/>
-    </td>
-
-<td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoSebasSP&theme=radical" width="500px"/>
-</td>
-
-<td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSebasSP&layout=compact&langs_count=6&theme=radical" width="500px"/>
-    </td>
-</div>
-
----
-
 ### 📌 Proyectos Destacados  
 
 "Próximamente..."
@@ -70,6 +51,25 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, March 6th, 2025, 4:39:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
+### 📊 Estadísticas de GitHub  
+
+<div align="center">
+
+<td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=LeoSebasSP&show_icons=true&theme=radical" width="500px"/>
+    </td>
+
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoSebasSP&theme=radical" width="500px"/>
+</td>
+
+<td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSebasSP&layout=compact&langs_count=6&theme=radical" width="500px"/>
+    </td>
+</div>
 
 ---
 
