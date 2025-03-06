@@ -59,7 +59,7 @@
 
 ---
 
-### 🌍 Conéctate conmigo  
+### 🌍 Contáctame  
 
 📩 **Email:** [leonardosalinaspaullo@gmail.com](mailto:leonardosalinaspaullo@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/leonardosebastiansalinaspaullo](www.linkedin.com/in/leonardosebastiansalinaspaullo)  
