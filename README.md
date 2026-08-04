@@ -43,10 +43,12 @@
 ## 🔥 Actividad Reciente  
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
-2. 💪 Opened PR [#1](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+2. 💪 Opened PR [#2](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+3. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+4. 💪 Opened PR [#1](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 4th, 2026, 2:51:26 AM
+Last Updated: Tuesday, August 4th, 2026, 8:43:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
