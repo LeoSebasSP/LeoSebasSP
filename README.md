@@ -42,13 +42,14 @@
 
 ## 🔥 Actividad Reciente  
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
-2. 💪 Opened PR [#2](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
-3. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
-4. 💪 Opened PR [#1](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+1. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/KarateConduitApiTests](https://github.com/LeoSebasSP/KarateConduitApiTests)<br>
+2. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+3. 💪 Opened PR [#2](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+4. ⬆️ Pushed undefined commit(s) to [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
+5. 💪 Opened PR [#1](undefined) in [LeoSebasSP/EventManager](https://github.com/LeoSebasSP/EventManager)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 24th, 2026, 1:36:03 AM
+Last Updated: Monday, August 24th, 2026, 7:04:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
